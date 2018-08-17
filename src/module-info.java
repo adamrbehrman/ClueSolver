@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author adambehrman
+ *
+ */
+module cluesolver {
+}
